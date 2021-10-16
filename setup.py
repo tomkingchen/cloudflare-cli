@@ -10,6 +10,7 @@ setup(
         'boto3',
         'botocore',
         'click',
+        'pyyaml',
         'requests'
     ],
     entry_points={
