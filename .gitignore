@@ -1,0 +1,7 @@
+*.csv
+*.egg-info/
+*.yaml
+__pycache__/
+csv/
+pylintrc
+venv/
